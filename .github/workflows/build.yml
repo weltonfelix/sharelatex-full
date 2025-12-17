@@ -1,4 +1,4 @@
-name: Build Overleaf Full
+name: Build Share LaTeX Full
 
 on:
   push:
